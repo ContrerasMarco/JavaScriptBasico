@@ -1,0 +1,6 @@
+//crear una funcion con 3 parametros y pasarles 3 argumentos para imprimir el nombre completo.
+function nombreCompleto(name,lastname,nickname){
+  return ("Mi nombre es " +  " " + name +  " " + lastname +  " " + "y me gusta que me llamen "+  nickname);
+}
+nombreCompleto("marco", "contreras", "marxunxo")
+
